@@ -1,3 +1,3 @@
-# Lab 6
+# Concurrent HTTP Server
 
-http://ecenetworking.byu.edu/493r/labs/lab-6/
+https://ecenetworking.byu.edu/426/labs/concurrent-http-server/
