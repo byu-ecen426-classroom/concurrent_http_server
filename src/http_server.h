@@ -29,6 +29,7 @@
 typedef struct Config {
     char *port;
     char *relative_path;
+    bool delay;
 } Config;
 
 typedef struct Header {
